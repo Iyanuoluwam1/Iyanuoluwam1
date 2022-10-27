@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: teal;
+  color:goldenrod
+}
+h2 {
+  color: goldenrod; 
+text-align: center;
+}
+
+nav>p {
+  display:flex;
+  justify-content:space-between
+}
+.bio-data {
+ text-spacing:2px;
+border-style:1px solid black;
+  margin:0px;
+padding:1px;
+}
+
+a {
+  color: black;
+  text-decoration:none;
+}
+.button {
+  border-style:solid;
+  border-radius:12px;
+}
